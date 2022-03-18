@@ -1,5 +1,5 @@
 body {
-  background-color: hsla(27, 80%, 50%, 0.3);
+  background-color: hsla(40, 100%, 50%, 0.3);
   font-family: Bitter, sans-serif;
   margin: 10px;
 }
@@ -60,13 +60,13 @@ aside {
 }
 
 a {
-  color: hsla(200, 90%, 50%, 1);
+  color: hsla(320, 90%, 50%, 1);
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: hsla(360, 50%, 50%, 1);
+  color: hsla(500, 50%, 50%, 1);
 }
 
 nav a {
